@@ -1,1 +1,5 @@
 indkøbsliste
+
+sunde:
+
+usunde:
