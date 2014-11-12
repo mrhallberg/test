@@ -1,5 +1,8 @@
 indkøbsliste
 
 sunde:
+gulerødder
+ærter
+kartofler
 
 usunde:
