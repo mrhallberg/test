@@ -3,3 +3,6 @@ indkøbsliste
 sunde:
 
 usunde:
+cola
+chips
+slik
